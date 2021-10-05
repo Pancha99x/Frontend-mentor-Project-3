@@ -46,6 +46,11 @@ section {
     padding: 0rem 1.5rem;
 }
 
+.hero-image img {
+    width: 100%;
+    max-width: 450px;
+}
+
 .content h1 {
     font-weight: 900;
     color: var(--Dark-blue);
