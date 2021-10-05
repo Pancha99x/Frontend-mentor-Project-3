@@ -10,7 +10,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
+- Solution URL: https://github.com/Pancha99x/Frontend-mentor-Project-3
 - Live Site URL: 
 
 ### Built with
