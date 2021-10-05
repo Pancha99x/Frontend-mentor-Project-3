@@ -133,9 +133,7 @@ span:last-child {
 
 @media (min-width: 1100px) {
     body {
-        background-image: url(images/pattern-background-desktop.svg);
-        background-position: cover;
-        
+        background-image: url(images/pattern-background-desktop.svg); 
     }
 
     section {
